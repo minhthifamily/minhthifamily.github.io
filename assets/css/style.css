@@ -4457,7 +4457,7 @@ static-hero-s4
   position: relative;
 }
 .wpo-site-footer .wpo-upper-footer {
-  padding: 100px 120px;
+  padding: 60px 120px;
   position: relative;
   z-index: 1;
 }
@@ -7009,7 +7009,7 @@ static-hero-s4
 
 /* 6.9 wpo-blog-section-s2 */
 .wpo-blog-section-s3 {
-  padding-top: 120px;
+  padding-top: 50px;
 }
 @media (max-width: 991px) {
   .wpo-blog-section-s3 {
